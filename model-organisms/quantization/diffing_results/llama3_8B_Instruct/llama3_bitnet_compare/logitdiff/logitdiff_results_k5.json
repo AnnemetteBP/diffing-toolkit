@@ -1,0 +1,4355 @@
+{
+  "0.1": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 0.1,
+      "layer_absolute": 3,
+      "mean_iou": 0.0185,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".GraphicsUnit",
+            "aeda",
+            "#echo",
+            "وینت",
+            "긔"
+          ],
+          "only_finetuned": [
+            "…”",
+            "…and",
+            "…\"",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "ANDLE",
+            "_RST",
+            " treff",
+            "иру",
+            "eza"
+          ],
+          "only_finetuned": [
+            ",…",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " Sweet",
+            " teng",
+            "PURE",
+            " Tus",
+            "sweet"
+          ],
+          "only_finetuned": [
+            "…\"",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "_DECLARE",
+            "шибка",
+            "Hora",
+            "yonel",
+            "슴"
+          ],
+          "only_finetuned": [
+            "wr",
+            " Neu",
+            " tapered",
+            " Eaton",
+            "織"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            "yen"
+          ],
+          "only_base": [
+            "IDL",
+            "razier",
+            "ニア",
+            "कन"
+          ],
+          "only_finetuned": [
+            "so",
+            "EL",
+            "phant",
+            "ivities"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "age",
+            " incor",
+            "instein",
+            "UpInside",
+            " déf"
+          ],
+          "only_finetuned": [
+            "…\"",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "endar",
+            "#=",
+            " Scho",
+            "Unmount",
+            "asco"
+          ],
+          "only_finetuned": [
+            "aster",
+            " NA",
+            " nightmare",
+            "/out",
+            "-mount"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "ário",
+            "ardown",
+            " Manufacturers",
+            "'&&",
+            "teg"
+          ],
+          "only_finetuned": [
+            "eno",
+            "etta",
+            "assy",
+            "olley",
+            "usz"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            " Minority"
+          ],
+          "only_base": [
+            "paralle",
+            "WithMany",
+            ".tt",
+            "Чер"
+          ],
+          "only_finetuned": [
+            "anced",
+            "urge",
+            " Versions",
+            "rif"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "务",
+            "-addon",
+            "jeta",
+            "WXYZ",
+            "діл"
+          ],
+          "only_finetuned": [
+            "ir",
+            "elter",
+            " Garner",
+            " Orn",
+            "ilir"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "�",
+            "emand",
+            "шибка",
+            "ensburg",
+            "омет"
+          ],
+          "only_finetuned": [
+            "db",
+            " weak",
+            "feed",
+            "orph",
+            "ethyst"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " nue",
+            "ncpy",
+            "stre",
+            "HAV",
+            ".pp"
+          ],
+          "only_finetuned": [
+            "app",
+            "tip",
+            "-op",
+            "pit",
+            "anden"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "ul",
+            "stants",
+            " Hor",
+            " salad",
+            "asz"
+          ],
+          "only_finetuned": [
+            " dam",
+            " previously",
+            "uns",
+            " Pap",
+            "sworth"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "arak",
+            "rophe",
+            "asz",
+            "'gc",
+            "діл"
+          ],
+          "only_finetuned": [
+            "aeda",
+            "…\"",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            "akra"
+          ],
+          "only_base": [
+            "blem",
+            "aland",
+            "wią",
+            " Shank"
+          ],
+          "only_finetuned": [
+            "vy",
+            "deal",
+            "elters",
+            "lobe"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "hi",
+            "idebar",
+            " labore",
+            "ť",
+            "оск"
+          ],
+          "only_finetuned": [
+            "ing",
+            "wen",
+            "urations",
+            "uchen",
+            "sworth"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "iley",
+            "-toggler",
+            "'gc",
+            "_por",
+            "ีอ"
+          ],
+          "only_finetuned": [
+            "ero",
+            "fox",
+            "ombat",
+            "ocities",
+            "áky"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            ".metamodel",
+            "-lfs",
+            "діл",
+            "kud"
+          ],
+          "only_finetuned": [
+            "annon",
+            "erek",
+            "arak",
+            " sometime",
+            "iazza"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        }
+      ]
+    }
+  ],
+  "0.2": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 0.2,
+      "layer_absolute": 6,
+      "mean_iou": 0.0185,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".GraphicsUnit",
+            "aeda",
+            "#echo",
+            "وینت",
+            "긔"
+          ],
+          "only_finetuned": [
+            " […",
+            "Produto",
+            "…\"",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "osi",
+            "spe",
+            "hire",
+            "klär",
+            "یز"
+          ],
+          "only_finetuned": [
+            "Produto",
+            "…\"",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " Kore",
+            " UIAlert",
+            "OWL",
+            ".truth",
+            "Vect"
+          ],
+          "only_finetuned": [
+            "…\"",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " ch",
+            "arsi",
+            "DataStream",
+            "گی",
+            "діл"
+          ],
+          "only_finetuned": [
+            "ll",
+            " either",
+            " Either",
+            "olls",
+            "uste"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            "IDL"
+          ],
+          "only_base": [
+            "lik",
+            "ickers",
+            "paren",
+            "κι"
+          ],
+          "only_finetuned": [
+            "astr",
+            "ategic",
+            "ekl",
+            "eriod"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "UpInside",
+            "'gc",
+            "CharacterSet",
+            "โน",
+            ".xz"
+          ],
+          "only_finetuned": [
+            "…\"",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "oci",
+            " Sons",
+            "UnderTest",
+            "昭",
+            "чика"
+          ],
+          "only_finetuned": [
+            "ater",
+            "ży",
+            "ichen",
+            "ipa",
+            " dusk"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "yles",
+            "ennen",
+            " plat",
+            "pora",
+            "'&&"
+          ],
+          "only_finetuned": [
+            "enc",
+            " nonatomic",
+            " wen",
+            "bart",
+            "ensch"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "eci",
+            ".opensource",
+            "ableObject",
+            " leider",
+            "-REAL"
+          ],
+          "only_finetuned": [
+            "men",
+            "mass",
+            "usi",
+            " Oliv",
+            "meni"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            "Accessory",
+            ".opensource",
+            "IZES",
+            "asyarak"
+          ],
+          "only_finetuned": [
+            "let",
+            "ese",
+            "aut",
+            "LET",
+            " Plat"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "anno",
+            ".Unlock",
+            "'gc",
+            "╝",
+            "eyse"
+          ],
+          "only_finetuned": [
+            "h",
+            "ol",
+            "olog",
+            "errupt",
+            "uset"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            "apo",
+            " addslashes",
+            " Maher",
+            "сор"
+          ],
+          "only_finetuned": [
+            "ør",
+            "spot",
+            "ersed",
+            "onium",
+            "aliz"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".False",
+            "ptune",
+            "'gc",
+            "\"indices",
+            " Maher"
+          ],
+          "only_finetuned": [
+            "ibre",
+            " Tos",
+            "vell",
+            " jade",
+            "andest"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            "'gc"
+          ],
+          "only_base": [
+            "riteln",
+            "?}\",",
+            "GenerationStrategy",
+            "ออ"
+          ],
+          "only_finetuned": [
+            "aeda",
+            "renom",
+            " tô",
+            "mpar"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            "ichert"
+          ],
+          "only_base": [
+            "SGlobal",
+            "Scalars",
+            "icho",
+            "لس"
+          ],
+          "only_finetuned": [
+            "ball",
+            "ocr",
+            "shape",
+            "enta"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " Wind",
+            " Lamb",
+            "anzeigen",
+            " Gord",
+            "στε"
+          ],
+          "only_finetuned": [
+            "ball",
+            "wind",
+            "esium",
+            " Lambert",
+            "ska"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " Medal",
+            "opian",
+            "'gc",
+            "DirectoryName",
+            "ạc"
+          ],
+          "only_finetuned": [
+            "esium",
+            "ubit",
+            "alink",
+            " Lambert",
+            "afs"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "lez",
+            "'gc",
+            "POCH",
+            "hexdigest",
+            "ož"
+          ],
+          "only_finetuned": [
+            "anz",
+            "764",
+            "astics",
+            "izzo",
+            "ustum"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        }
+      ]
+    }
+  ],
+  "0.3": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 0.3,
+      "layer_absolute": 9,
+      "mean_iou": 0.0062,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".GraphicsUnit",
+            "aeda",
+            "#echo",
+            "وینت",
+            "긔"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "��",
+            "'gc",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "��",
+            "-toggler",
+            "áz",
+            "izzare",
+            "klär"
+          ],
+          "only_finetuned": [
+            "Produto",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "aging",
+            "buster",
+            ".truth",
+            "یدی",
+            "цит"
+          ],
+          "only_finetuned": [
+            "Produto",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "LAG",
+            ".liferay",
+            "-toggler",
+            "'gc",
+            "massage"
+          ],
+          "only_finetuned": [
+            "pha",
+            "eline",
+            "emo",
+            "EIF",
+            "ICES"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "aha",
+            "usch",
+            "lijah",
+            " addslashes",
+            "τοκ"
+          ],
+          "only_finetuned": [
+            "astr",
+            " UTC",
+            "ukan",
+            "gif",
+            "ož"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "asan",
+            "'gc",
+            " addslashes",
+            " Pace",
+            "нош"
+          ],
+          "only_finetuned": [
+            "…\"",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "jem",
+            "IZER",
+            "sad",
+            " заст",
+            "slu"
+          ],
+          "only_finetuned": [
+            "ater",
+            "pel",
+            "chter",
+            "isce",
+            " maur"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".TestCase",
+            ".SIG",
+            "áh",
+            "teg",
+            "kuk"
+          ],
+          "only_finetuned": [
+            "ns",
+            "ugo",
+            " Cove",
+            " Kut",
+            "ilir"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "Facing",
+            ".SIG",
+            "รอบ",
+            "kuk",
+            "istrovství"
+          ],
+          "only_finetuned": [
+            "ns",
+            "andler",
+            "aru",
+            "mot",
+            "-basket"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "istor",
+            "/***/",
+            "bah",
+            "ableObject",
+            "ForObject"
+          ],
+          "only_finetuned": [
+            "aut",
+            "jet",
+            "equ",
+            "elic",
+            "ustum"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "ittest",
+            "\tRTHOOK",
+            "'gc",
+            "ujet",
+            "anyl"
+          ],
+          "only_finetuned": [
+            "�",
+            "akin",
+            "ultan",
+            " Pace",
+            "akit"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "�",
+            ".bc",
+            "СР",
+            "○",
+            "บก"
+          ],
+          "only_finetuned": [
+            "ookie",
+            " Maur",
+            " Banks",
+            " Tub",
+            "alom"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "PACE",
+            "'gc",
+            " Artem",
+            " Giles",
+            "istrovství"
+          ],
+          "only_finetuned": [
+            "oba",
+            "elic",
+            "CHASE",
+            "ipa",
+            "руп"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            "'gc"
+          ],
+          "only_base": [
+            "UCT",
+            "agate",
+            "ettle",
+            " Zucker"
+          ],
+          "only_finetuned": [
+            "/place",
+            " tô",
+            "mpar",
+            "nech"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "ronic",
+            "EFR",
+            " Raq",
+            " Byl",
+            "дом"
+          ],
+          "only_finetuned": [
+            "ron",
+            "RC",
+            "ionic",
+            "akra",
+            "ruz"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "732",
+            "ropa",
+            "klä",
+            "subj",
+            " Owned"
+          ],
+          "only_finetuned": [
+            "️",
+            " Libraries",
+            "airobi",
+            " Artifact",
+            "ska"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "quot",
+            " Medal",
+            "ropa",
+            "๋",
+            "شو"
+          ],
+          "only_finetuned": [
+            "rible",
+            " Lev",
+            "opia",
+            " Rainbow",
+            "opian"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "emy",
+            "asant",
+            "otel",
+            ".SIG",
+            "Enlarge"
+          ],
+          "only_finetuned": [
+            "undred",
+            "tha",
+            "nant",
+            "ivist",
+            "landers"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        }
+      ]
+    }
+  ],
+  "0.4": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 0.4,
+      "layer_absolute": 12,
+      "mean_iou": 0.0123,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".GraphicsUnit",
+            "aeda",
+            "#echo",
+            "وینت",
+            "긔"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "��",
+            "'gc",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "liche",
+            "amu",
+            "zę",
+            "PIX",
+            "klär"
+          ],
+          "only_finetuned": [
+            "Produto",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "_PUBLIC",
+            "ovan",
+            "-span",
+            "nEnter",
+            "swire"
+          ],
+          "only_finetuned": [
+            "Produto",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            " Scre",
+            "ChildIndex",
+            "лик",
+            "літ"
+          ],
+          "only_finetuned": [
+            "EIF",
+            "engo",
+            "atsapp",
+            "/stats",
+            "tae"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "cko",
+            "SPATH",
+            "usch",
+            ".Accessible",
+            "oví"
+          ],
+          "only_finetuned": [
+            "ateurs",
+            "mania",
+            "erot",
+            " Scatter",
+            "ož"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            " Erotische",
+            " gezocht",
+            "ož",
+            "краї"
+          ],
+          "only_finetuned": [
+            "aeda",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "igo",
+            "AGMENT",
+            "IZER",
+            ".truth",
+            " Dün"
+          ],
+          "only_finetuned": [
+            "IRST",
+            "ohl",
+            "ebra",
+            "engo",
+            "ordum"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            "ugo"
+          ],
+          "only_base": [
+            " Lun",
+            "nier",
+            "istrovství",
+            " исполн"
+          ],
+          "only_finetuned": [
+            "exc",
+            " Cove",
+            "bak",
+            " DST"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "�",
+            "stants",
+            " Diss",
+            ".xtext",
+            ".Experimental"
+          ],
+          "only_finetuned": [
+            "jet",
+            " cub",
+            "exc",
+            " sounding",
+            "鎮"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            "umo",
+            ".xtext",
+            "меть",
+            "eyim"
+          ],
+          "only_finetuned": [
+            "jet",
+            "dit",
+            "ajs",
+            "exc",
+            ".sponge"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".heroku",
+            "'gc",
+            ".openg",
+            "_GC",
+            "_LS"
+          ],
+          "only_finetuned": [
+            "otron",
+            "isky",
+            " intermittent",
+            "英",
+            "lak"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " Tou",
+            "ofday",
+            "'gc",
+            "celik",
+            " trai"
+          ],
+          "only_finetuned": [
+            "azi",
+            " pied",
+            "amment",
+            "onium",
+            "ourcem"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            "//{{",
+            "landers",
+            "краї",
+            " 네이트"
+          ],
+          "only_finetuned": [
+            "ftime",
+            "Statics",
+            "onium",
+            " �",
+            " 秋"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "ofday",
+            "'gc",
+            "ینه",
+            "спіль",
+            "скільки"
+          ],
+          "only_finetuned": [
+            " haha",
+            "éal",
+            "upe",
+            "mpar",
+            "nech"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " Ent",
+            " meis",
+            "ofday",
+            "ABCDEFGHIJKLMNOP",
+            "icí"
+          ],
+          "only_finetuned": [
+            "marks",
+            "ORIZONTAL",
+            "akra",
+            " Badge",
+            " Bun"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            "stra"
+          ],
+          "only_base": [
+            "elper",
+            "ropa",
+            "sville",
+            "strcasecmp"
+          ],
+          "only_finetuned": [
+            " quot",
+            "-dot",
+            " Artifact",
+            " ๆ"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "elper",
+            "ofday",
+            "'gc",
+            "/Branch",
+            "istringstream"
+          ],
+          "only_finetuned": [
+            "undred",
+            "igos",
+            "rov",
+            "akis",
+            "quil"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            "_exempt",
+            " Dün",
+            "спіль",
+            "eyse"
+          ],
+          "only_finetuned": [
+            "bject",
+            ".cs",
+            "adows",
+            "ventus",
+            "chang"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        }
+      ]
+    }
+  ],
+  "0.5": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 0.5,
+      "layer_absolute": 15,
+      "mean_iou": 0.0123,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".GraphicsUnit",
+            "aeda",
+            "#echo",
+            "وینت",
+            "긔"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "��",
+            "'gc",
+            "GuidId",
+            "actionDate"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "-language",
+            "StdString",
+            "-speaking",
+            "klär",
+            " AssemblyCopyright"
+          ],
+          "only_finetuned": [
+            "Produto",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "vo",
+            "�",
+            "hai",
+            "kv",
+            "osphate"
+          ],
+          "only_finetuned": [
+            "aeda",
+            "Produto",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            "Fcn",
+            "Capability",
+            "($)",
+            " Někter"
+          ],
+          "only_finetuned": [
+            "EIF",
+            "erten",
+            "UNDLE",
+            "mast",
+            "�"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " conj",
+            "BootTest",
+            "SPATH",
+            " Sho",
+            " Relatives"
+          ],
+          "only_finetuned": [
+            " Reich",
+            "issant",
+            "adol",
+            " azimuth",
+            " Scatter"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            "'gc"
+          ],
+          "only_base": [
+            "UpInside",
+            "addtogroup",
+            " gezocht",
+            "_pemb"
+          ],
+          "only_finetuned": [
+            "aeda",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "/***/",
+            "isto",
+            " Erotische",
+            "zsche",
+            "→→"
+          ],
+          "only_finetuned": [
+            "cept",
+            "IRST",
+            "chantment",
+            "acen",
+            "ihn"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "﻿#",
+            "processable",
+            " Decompiled",
+            "меть",
+            "©©"
+          ],
+          "only_finetuned": [
+            "stants",
+            " Jenn",
+            " baff",
+            "bak",
+            "ิย"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "kie",
+            "WSTR",
+            "-append",
+            "/WebAPI",
+            "меть"
+          ],
+          "only_finetuned": [
+            "stants",
+            "exc",
+            "nant",
+            ".exc",
+            " STDERR"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "_marshall",
+            "CppClass",
+            "▍",
+            "меть",
+            "istrovství"
+          ],
+          "only_finetuned": [
+            "uent",
+            "ôt",
+            "elig",
+            "bis",
+            "marshall"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "NCY",
+            "'gc",
+            "_marshall",
+            "Indented",
+            "_PUSHDATA"
+          ],
+          "only_finetuned": [
+            "nof",
+            "otel",
+            "介",
+            "igli",
+            "lingen"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "steder",
+            "ofday",
+            "URLException",
+            "UrlParser",
+            "овый"
+          ],
+          "only_finetuned": [
+            "IMUM",
+            " Zimmer",
+            "gregator",
+            "adol",
+            " Glock"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "UpInside",
+            "'gc",
+            "_marshall",
+            "NetMessage",
+            "CppClass"
+          ],
+          "only_finetuned": [
+            "ereotype",
+            "ondere",
+            "چی",
+            "πή",
+            "icari"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "ulance",
+            "squeeze",
+            "'gc",
+            "-lfs",
+            "�細"
+          ],
+          "only_finetuned": [
+            "ken",
+            " pity",
+            "KEN",
+            "дя",
+            "nech"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " Bod",
+            "_translate",
+            "istringstream",
+            "overrides",
+            "жи"
+          ],
+          "only_finetuned": [
+            "unde",
+            "shake",
+            "ATEST",
+            "redi",
+            "STONE"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " conj",
+            "istringstream",
+            "жи",
+            "склад",
+            "サー"
+          ],
+          "only_finetuned": [
+            "yo",
+            "mage",
+            "redi",
+            " Hoy",
+            " ๆ"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            "NetMessage"
+          ],
+          "only_base": [
+            " geschichten",
+            "akis",
+            "aliyet",
+            "토토"
+          ],
+          "only_finetuned": [
+            "ilenames",
+            "endale",
+            "clid",
+            "iflower"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "sworth",
+            "ventus",
+            "_startup",
+            " Barbar",
+            "меть"
+          ],
+          "only_finetuned": [
+            "ramework",
+            " Gavin",
+            "esz",
+            " Strom",
+            "esin"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        }
+      ]
+    }
+  ],
+  "0.6": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 0.6,
+      "layer_absolute": 18,
+      "mean_iou": 0.0324,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".GraphicsUnit",
+            "aeda",
+            "#echo",
+            "وینت",
+            "podob"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "��",
+            "'gc",
+            "GuidId",
+            "actionDate"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " speaking",
+            "spe",
+            "-language",
+            "-medium",
+            "-speaking"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "Produto",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "UND",
+            "hai",
+            "kv",
+            "?><?",
+            "addtogroup"
+          ],
+          "only_finetuned": [
+            "aeda",
+            "Produto",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " extensively",
+            "'gc",
+            "Capability",
+            " confidently",
+            " vign"
+          ],
+          "only_finetuned": [
+            "EIF",
+            "Binder",
+            "engo",
+            "atsapp",
+            "...'"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " conj",
+            "kee",
+            "ة",
+            "cko",
+            " weed"
+          ],
+          "only_finetuned": [
+            "�",
+            "less",
+            "like",
+            "issant",
+            " azimuth"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            "'gc"
+          ],
+          "only_base": [
+            "/'",
+            "�数",
+            "noun",
+            " Angiospermae"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "aeda",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "�数",
+            "oulos",
+            "'gc",
+            " Animalia",
+            "→→"
+          ],
+          "only_finetuned": [
+            "anging",
+            "verter",
+            "IRST",
+            "dde",
+            "acen"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " English",
+            " languages",
+            "间",
+            "ingular",
+            "pieces"
+          ],
+          "only_finetuned": [
+            " en",
+            " translation",
+            " Lan",
+            " spoiler",
+            "ewe"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "-language",
+            "-speaking",
+            "-lfs",
+            "IZER",
+            "_rwlock"
+          ],
+          "only_finetuned": [
+            " equivalent",
+            " translation",
+            " translations",
+            " Translation",
+            "exc"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "#af",
+            " Geile",
+            "/Area",
+            "-cols",
+            "кту"
+          ],
+          "only_finetuned": [
+            " none",
+            ".truth",
+            "'er",
+            "REDIENT",
+            "olik"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "pytest",
+            "WSTR",
+            "lesen",
+            "FileVersion",
+            " дот"
+          ],
+          "only_finetuned": [
+            " dove",
+            "/gui",
+            "igli",
+            "ONGL",
+            "'er"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            "-bordered"
+          ],
+          "only_base": [
+            " n",
+            " aer",
+            " Lehr",
+            "儿"
+          ],
+          "only_finetuned": [
+            " transplant",
+            "izoph",
+            "eci",
+            "rych"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " transl",
+            "﻿#",
+            "UpInside",
+            "'gc",
+            "UsageId"
+          ],
+          "only_finetuned": [
+            " incor",
+            " bore",
+            "্",
+            "�",
+            " �"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "eker",
+            " hostage",
+            " Hed",
+            " HOH",
+            " Hüs"
+          ],
+          "only_finetuned": [
+            "ken",
+            "voir",
+            "ARA",
+            "werk",
+            "sip"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.25,
+          "intersection": [
+            "eker",
+            "kova"
+          ],
+          "only_base": [
+            "afa",
+            " Fle",
+            ".Qual"
+          ],
+          "only_finetuned": [
+            "egal",
+            "eci",
+            " Artifact"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "ropa",
+            "memcmp",
+            "#af",
+            "istringstream",
+            "склад"
+          ],
+          "only_finetuned": [
+            "sap",
+            " Artifact",
+            "wit",
+            "erot",
+            " العربية"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "'gc",
+            "_makeConstraints",
+            "#af",
+            "ören",
+            "меть"
+          ],
+          "only_finetuned": [
+            "rons",
+            "hton",
+            "*)((",
+            "ivre",
+            "dech"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            "adows"
+          ],
+          "only_base": [
+            "iegel",
+            "﻿\n\n",
+            "yonel",
+            "ázev"
+          ],
+          "only_finetuned": [
+            "mare",
+            ".RunWith",
+            "agrams",
+            " ⓘ"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        }
+      ]
+    }
+  ],
+  "0.7": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 0.7,
+      "layer_absolute": 21,
+      "mean_iou": 0.2191,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".GraphicsUnit",
+            "aeda",
+            "#echo",
+            "وینت",
+            "podob"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "��",
+            "'gc",
+            "GuidId",
+            "actionDate"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "men",
+            " speaking",
+            "woman",
+            "-language",
+            "-speaking"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "Produto",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "�",
+            "ERRQ",
+            "ysize",
+            "[$_",
+            "teg"
+          ],
+          "only_finetuned": [
+            "aeda",
+            "سال",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " extensively",
+            "�",
+            "Capability",
+            ":UITableView",
+            " vign"
+          ],
+          "only_finetuned": [
+            "viar",
+            "atsapp",
+            "...'",
+            "...'\n",
+            " ucwords"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.25,
+          "intersection": [
+            "ing",
+            "like"
+          ],
+          "only_base": [
+            " basket",
+            "fulness",
+            "issant"
+          ],
+          "only_finetuned": [
+            "ed",
+            " arrangement",
+            " arranging"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "�数",
+            "enderror",
+            " Hindi",
+            "addtogroup",
+            "noun"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "ritel",
+            "'gc",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " English",
+            " flower",
+            "English",
+            " Flowers",
+            "しない"
+          ],
+          "only_finetuned": [
+            "imeline",
+            "chantment",
+            "gota",
+            "менш",
+            "ンジ"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "间",
+            "間",
+            " dikke",
+            "IZES",
+            " strncmp"
+          ],
+          "only_finetuned": [
+            " en",
+            " cease",
+            " bile",
+            "ística",
+            "ENN"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".Percent",
+            "-lfs",
+            "_MetaData",
+            "NewProp",
+            " Wikip"
+          ],
+          "only_finetuned": [
+            ":",
+            " translation",
+            " Trad",
+            " translations",
+            " Translation"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 1.0,
+          "intersection": [
+            " flowers",
+            " flower",
+            "flower",
+            " Flower",
+            " Flowers"
+          ],
+          "only_base": [],
+          "only_finetuned": [],
+          "num_intersection": 5,
+          "num_only_base": 0,
+          "num_only_finetuned": 0
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 1.0,
+          "intersection": [
+            " flowers",
+            " flower",
+            " Flower",
+            " Flowers",
+            "flowers"
+          ],
+          "only_base": [],
+          "only_finetuned": [],
+          "num_intersection": 5,
+          "num_only_base": 0,
+          "num_only_finetuned": 0
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.6667,
+          "intersection": [
+            " flowers",
+            " flower",
+            "flower",
+            " Flowers"
+          ],
+          "only_base": [
+            "-bordered"
+          ],
+          "only_finetuned": [
+            " Flower"
+          ],
+          "num_intersection": 4,
+          "num_only_base": 1,
+          "num_only_finetuned": 1
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " transl",
+            "﻿#",
+            "UsageId",
+            " Liqu",
+            "_Lean"
+          ],
+          "only_finetuned": [
+            "ityEngine",
+            " English",
+            " incor",
+            "্",
+            "/copyleft"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " flowers",
+            " flower",
+            "flower",
+            " Flowers",
+            "flowers"
+          ],
+          "only_finetuned": [
+            "pill",
+            "werk",
+            "UsageId",
+            "ideon",
+            "ádu"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.6667,
+          "intersection": [
+            " flowers",
+            " flower",
+            " Flower",
+            " Flowers"
+          ],
+          "only_base": [
+            "flower"
+          ],
+          "only_finetuned": [
+            "iflower"
+          ],
+          "num_intersection": 4,
+          "num_only_base": 1,
+          "num_only_finetuned": 1
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.25,
+          "intersection": [
+            " flower",
+            "flower"
+          ],
+          "only_base": [
+            "awei",
+            "istringstream",
+            "lian"
+          ],
+          "only_finetuned": [
+            "s",
+            "sap",
+            "iflower"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "_makeConstraints",
+            "cheng",
+            " Liqu",
+            "��",
+            "NetMessage"
+          ],
+          "only_finetuned": [
+            ")>>",
+            "hton",
+            "*)((",
+            " ⓘ",
+            "��"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            " English"
+          ],
+          "only_base": [
+            "English",
+            "/testify",
+            " destinationViewController",
+            "ksam"
+          ],
+          "only_finetuned": [
+            " translations",
+            ".scalablytyped",
+            " ⓘ",
+            "роч"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        }
+      ]
+    }
+  ],
+  "0.8": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 0.8,
+      "layer_absolute": 24,
+      "mean_iou": 0.2165,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".GraphicsUnit",
+            "aeda",
+            "#echo",
+            "podob",
+            "긔"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "��",
+            "'gc",
+            "GuidId",
+            "actionDate"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "men",
+            " speaking",
+            " Premier",
+            "spe",
+            "-speaking"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "'gc",
+            "actionDate",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "buster",
+            "ERRQ",
+            "athom",
+            "osate",
+            "($('<"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "aeda",
+            "페이지",
+            "字幕",
+            "نوع"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.25,
+          "intersection": [
+            "�",
+            "...'"
+          ],
+          "only_base": [
+            " The",
+            "The",
+            "Capability"
+          ],
+          "only_finetuned": [
+            "'\n",
+            "]'",
+            "...'\n"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.4286,
+          "intersection": [
+            "ing",
+            "like",
+            " arranging"
+          ],
+          "only_base": [
+            " basket",
+            " arrangement"
+          ],
+          "only_finetuned": [
+            "ed",
+            "pot"
+          ],
+          "num_intersection": 3,
+          "num_only_base": 2,
+          "num_only_finetuned": 2
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " Spanish",
+            " Hindi",
+            " Esper",
+            "GenerationStrategy",
+            "noun"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "ritel",
+            "'gc",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " flowers",
+            " flower",
+            " Flowers",
+            "flowers",
+            " blooms"
+          ],
+          "only_finetuned": [
+            " English",
+            "qui",
+            "chantment",
+            "gota",
+            " Singular"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "间",
+            "bury",
+            " aged",
+            "inesis",
+            "ovní"
+          ],
+          "only_finetuned": [
+            " en",
+            " cease",
+            " Simpl",
+            "enha",
+            "ística"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "-trans",
+            " simplified",
+            " Traditional",
+            " Simpl",
+            " Canton"
+          ],
+          "only_finetuned": [
+            " equivalent",
+            " translation",
+            " ’",
+            "Translate",
+            " Translation"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.6667,
+          "intersection": [
+            " flowers",
+            " flower",
+            " Flower",
+            " Flowers"
+          ],
+          "only_base": [
+            " blo"
+          ],
+          "only_finetuned": [
+            " bloss"
+          ],
+          "num_intersection": 4,
+          "num_only_base": 1,
+          "num_only_finetuned": 1
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 0.4286,
+          "intersection": [
+            " flowers",
+            " flower",
+            " Flowers"
+          ],
+          "only_base": [
+            " blo",
+            "flowers"
+          ],
+          "only_finetuned": [
+            "flower",
+            " Flower"
+          ],
+          "num_intersection": 3,
+          "num_only_base": 2,
+          "num_only_finetuned": 2
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.4286,
+          "intersection": [
+            " flowers",
+            " flower",
+            " Flowers"
+          ],
+          "only_base": [
+            " blo",
+            " Flower"
+          ],
+          "only_finetuned": [
+            "flower",
+            " bloss"
+          ],
+          "num_intersection": 3,
+          "num_only_base": 2,
+          "num_only_finetuned": 2
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            " Sands"
+          ],
+          "only_base": [
+            " transl",
+            "﻿#",
+            " roman",
+            "UsageId"
+          ],
+          "only_finetuned": [
+            " incor",
+            " Wade",
+            "্",
+            ")application"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.6667,
+          "intersection": [
+            " flowers",
+            " flower",
+            "flower",
+            " Flowers"
+          ],
+          "only_base": [
+            "花"
+          ],
+          "only_finetuned": [
+            " Flower"
+          ],
+          "num_intersection": 4,
+          "num_only_base": 1,
+          "num_only_finetuned": 1
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.6667,
+          "intersection": [
+            " flowers",
+            " flower",
+            " Flower",
+            " Flowers"
+          ],
+          "only_base": [
+            "ua"
+          ],
+          "only_finetuned": [
+            "flower"
+          ],
+          "num_intersection": 4,
+          "num_only_base": 1,
+          "num_only_finetuned": 1
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.25,
+          "intersection": [
+            " flower",
+            "iflower"
+          ],
+          "only_base": [
+            " absolutely",
+            " wre",
+            "lian"
+          ],
+          "only_finetuned": [
+            "flower",
+            " Flowers",
+            "flowers"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ")",
+            ";",
+            ");",
+            "oci",
+            " corro"
+          ],
+          "only_finetuned": [
+            "entials",
+            " Wade",
+            "iflower",
+            " ><?",
+            " ⓘ"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " English",
+            " French",
+            " Spanish",
+            "English",
+            " Dutch"
+          ],
+          "only_finetuned": [
+            "HIR",
+            " Starr",
+            ".scalablytyped",
+            "ladu",
+            "ádu"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        }
+      ]
+    }
+  ],
+  "0.9": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 0.9,
+      "layer_absolute": 27,
+      "mean_iou": 0.1618,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ".GraphicsUnit",
+            "aeda",
+            "#echo",
+            "وینت",
+            "podob"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "��",
+            "'gc",
+            "GuidId",
+            "actionDate"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " speaking",
+            " conj",
+            " Premier",
+            "woman",
+            "-speaking"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "'gc",
+            "GuidId",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "ERRQ",
+            "(AdapterView",
+            "lineno",
+            "togroup",
+            "($('<"
+          ],
+          "only_finetuned": [
+            "﻿using",
+            "aeda",
+            "سال",
+            "페이지",
+            "字幕"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.25,
+          "intersection": [
+            "s",
+            "...'"
+          ],
+          "only_base": [
+            "The",
+            "...\"",
+            "�"
+          ],
+          "only_finetuned": [
+            "')",
+            "'\n",
+            "...'\n"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.4286,
+          "intersection": [
+            "ing",
+            "pot",
+            " arranging"
+          ],
+          "only_base": [
+            " pot",
+            " arrangement"
+          ],
+          "only_finetuned": [
+            "less",
+            "like"
+          ],
+          "num_intersection": 3,
+          "num_only_base": 2,
+          "num_only_finetuned": 2
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " German",
+            "German",
+            ":UITableView",
+            "GenerationStrategy",
+            "CppClass"
+          ],
+          "only_finetuned": [
+            "ritel",
+            "'gc",
+            "GuidId",
+            "HeaderCode",
+            "��"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " French",
+            " flower",
+            " Dutch",
+            " Portuguese",
+            "flowers"
+          ],
+          "only_finetuned": [
+            "French",
+            "chantment",
+            "gota",
+            " Singular",
+            "ιστή"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            "文"
+          ],
+          "only_base": [
+            "Text",
+            "text",
+            " text",
+            " Text"
+          ],
+          "only_finetuned": [
+            " eng",
+            " Traditional",
+            " Simpl",
+            "auga"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " simpl",
+            " simplified",
+            " Traditional",
+            " Simpl",
+            "繁"
+          ],
+          "only_finetuned": [
+            " '",
+            " ‘",
+            " ’",
+            "Translate",
+            " Wade"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.4286,
+          "intersection": [
+            " flowers",
+            " flower",
+            " Flowers"
+          ],
+          "only_base": [
+            " flor",
+            "花"
+          ],
+          "only_finetuned": [
+            " '",
+            " ‘"
+          ],
+          "num_intersection": 3,
+          "num_only_base": 2,
+          "num_only_finetuned": 2
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 0.6667,
+          "intersection": [
+            " flowers",
+            " flower",
+            " Flowers",
+            "花"
+          ],
+          "only_base": [
+            "flowers"
+          ],
+          "only_finetuned": [
+            "flower"
+          ],
+          "num_intersection": 4,
+          "num_only_base": 1,
+          "num_only_finetuned": 1
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            " bloss"
+          ],
+          "only_base": [
+            " particularly",
+            " blo",
+            " flower",
+            "儿"
+          ],
+          "only_finetuned": [
+            " wre",
+            "iflower",
+            " blossom",
+            "朵"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " ->",
+            "﻿#",
+            " roman",
+            "RuntimeObject",
+            "CppClass"
+          ],
+          "only_finetuned": [
+            " Wade",
+            "্",
+            "ehr",
+            ")application",
+            " Duy"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.25,
+          "intersection": [
+            " flowers",
+            " flower"
+          ],
+          "only_base": [
+            "hua",
+            "花",
+            "シア"
+          ],
+          "only_finetuned": [
+            "flower",
+            " Flower",
+            ">NN"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.6667,
+          "intersection": [
+            "ua",
+            " flower",
+            " Flower",
+            "iflower"
+          ],
+          "only_base": [
+            "hua"
+          ],
+          "only_finetuned": [
+            "flower"
+          ],
+          "num_intersection": 4,
+          "num_only_base": 1,
+          "num_only_finetuned": 1
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "lish",
+            " flower",
+            " Graham",
+            "ostringstream",
+            "ska"
+          ],
+          "only_finetuned": [
+            "ifen",
+            "iflower",
+            "lian",
+            "ervas",
+            " cài"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            ")",
+            ")\n",
+            ")\n\n",
+            ");",
+            "儿"
+          ],
+          "only_finetuned": [
+            " Wade",
+            "oran",
+            "iflower",
+            " ⓘ",
+            "CTS"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " French",
+            " Spanish",
+            " Dutch",
+            "French",
+            " Simpl"
+          ],
+          "only_finetuned": [
+            " English",
+            "English",
+            " Wade",
+            "jeta",
+            " Starr"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        }
+      ]
+    }
+  ],
+  "1.0": [
+    {
+      "prompt": "English: 'flower' -> 中文:",
+      "layer_relative": 1.0,
+      "layer_absolute": 31,
+      "mean_iou": 0.2458,
+      "positions": [
+        {
+          "position": 0,
+          "input_token": "<|begin_of_text|>",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "A",
+            "B",
+            "I",
+            "The",
+            "Question"
+          ],
+          "only_finetuned": [
+            " ",
+            " the",
+            " (",
+            " and",
+            " The"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 1,
+          "input_token": "English",
+          "is_generated": false,
+          "iou": 0.25,
+          "intersection": [
+            ",",
+            " ("
+          ],
+          "only_base": [
+            ":",
+            " to",
+            " Language"
+          ],
+          "only_finetuned": [
+            ")",
+            ".",
+            "\n"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 2,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.25,
+          "intersection": [
+            " The",
+            " This"
+          ],
+          "only_base": [
+            " ",
+            " A",
+            " Top"
+          ],
+          "only_finetuned": [
+            " In",
+            " It",
+            "<|end_of_text|>"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 3,
+          "input_token": " '",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            "The"
+          ],
+          "only_base": [
+            "A",
+            "B",
+            "C",
+            "T"
+          ],
+          "only_finetuned": [
+            "a",
+            "s",
+            "to",
+            "the"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 4,
+          "input_token": "flower",
+          "is_generated": false,
+          "iou": 0.4286,
+          "intersection": [
+            "ing",
+            " of",
+            "'\n"
+          ],
+          "only_base": [
+            "'",
+            "',"
+          ],
+          "only_finetuned": [
+            "')",
+            "')\n"
+          ],
+          "num_intersection": 3,
+          "num_only_base": 2,
+          "num_only_finetuned": 2
+        },
+        {
+          "position": 5,
+          "input_token": "'",
+          "is_generated": false,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            " in",
+            " (",
+            " and",
+            " or",
+            " +"
+          ],
+          "only_finetuned": [
+            "'",
+            " '",
+            " tree",
+            " garden",
+            " flower"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 6,
+          "input_token": " ->",
+          "is_generated": false,
+          "iou": 0.25,
+          "intersection": [
+            " '",
+            " French"
+          ],
+          "only_base": [
+            " (",
+            " Japanese",
+            " Korean"
+          ],
+          "only_finetuned": [
+            " en",
+            " German",
+            " English"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 7,
+          "input_token": " 中",
+          "is_generated": false,
+          "iou": 0.4286,
+          "intersection": [
+            ":",
+            "文",
+            "國"
+          ],
+          "only_base": [
+            " 文",
+            "古"
+          ],
+          "only_finetuned": [
+            " '",
+            "語"
+          ],
+          "num_intersection": 3,
+          "num_only_base": 2,
+          "num_only_finetuned": 2
+        },
+        {
+          "position": 8,
+          "input_token": "文",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            ":"
+          ],
+          "only_base": [
+            " (",
+            ":(",
+            "：",
+            "（"
+          ],
+          "only_finetuned": [
+            "\n",
+            " p",
+            " '",
+            " :"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 9,
+          "input_token": ":",
+          "is_generated": false,
+          "iou": 0.1111,
+          "intersection": [
+            " '"
+          ],
+          "only_base": [
+            " (",
+            " \"",
+            " \"\"",
+            " ';"
+          ],
+          "only_finetuned": [
+            " h",
+            " '[",
+            " �",
+            " 花"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 10,
+          "input_token": " '",
+          "is_generated": true,
+          "iou": 0.25,
+          "intersection": [
+            "flower",
+            "花"
+          ],
+          "only_base": [
+            "h",
+            "k",
+            "hu"
+          ],
+          "only_finetuned": [
+            "�",
+            "華",
+            " 花"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        },
+        {
+          "position": 11,
+          "input_token": "花",
+          "is_generated": true,
+          "iou": 0.6667,
+          "intersection": [
+            "'",
+            "',",
+            "'\n",
+            "';"
+          ],
+          "only_base": [
+            "'\n\n"
+          ],
+          "only_finetuned": [
+            "花"
+          ],
+          "num_intersection": 4,
+          "num_only_base": 1,
+          "num_only_finetuned": 1
+        },
+        {
+          "position": 12,
+          "input_token": "'",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            " ("
+          ],
+          "only_base": [
+            " -",
+            " /",
+            " |",
+            " ->"
+          ],
+          "only_finetuned": [
+            " p",
+            " P",
+            " English",
+            "<|end_of_text|>"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 13,
+          "input_token": " (",
+          "is_generated": true,
+          "iou": 0.0,
+          "intersection": [],
+          "only_base": [
+            "H",
+            "f",
+            "h",
+            "hu",
+            "hua"
+          ],
+          "only_finetuned": [
+            "P",
+            "English",
+            "flower",
+            "Chinese",
+            "Traditional"
+          ],
+          "num_intersection": 0,
+          "num_only_base": 5,
+          "num_only_finetuned": 5
+        },
+        {
+          "position": 14,
+          "input_token": "h",
+          "is_generated": true,
+          "iou": 0.1111,
+          "intersection": [
+            "ā"
+          ],
+          "only_base": [
+            "ú",
+            "...\n",
+            "ū",
+            "úa"
+          ],
+          "only_finetuned": [
+            "ui",
+            "ao",
+            "ua",
+            "wa"
+          ],
+          "num_intersection": 1,
+          "num_only_base": 4,
+          "num_only_finetuned": 4
+        },
+        {
+          "position": 15,
+          "input_token": "ū",
+          "is_generated": true,
+          "iou": 0.6667,
+          "intersection": [
+            ")",
+            "a",
+            "à",
+            "ā"
+          ],
+          "only_base": [
+            ")\n"
+          ],
+          "only_finetuned": [
+            "ah"
+          ],
+          "num_intersection": 4,
+          "num_only_base": 1,
+          "num_only_finetuned": 1
+        },
+        {
+          "position": 16,
+          "input_token": "a",
+          "is_generated": true,
+          "iou": 0.4286,
+          "intersection": [
+            ")",
+            "),",
+            ");"
+          ],
+          "only_base": [
+            ")\n",
+            ")\n\n"
+          ],
+          "only_finetuned": [
+            ",",
+            "):"
+          ],
+          "num_intersection": 3,
+          "num_only_base": 2,
+          "num_only_finetuned": 2
+        },
+        {
+          "position": 17,
+          "input_token": ")\n",
+          "is_generated": true,
+          "iou": 0.25,
+          "intersection": [
+            "English",
+            "Chinese"
+          ],
+          "only_base": [
+            "The",
+            "This",
+            "Japanese"
+          ],
+          "only_finetuned": [
+            "-",
+            "P",
+            "->"
+          ],
+          "num_intersection": 2,
+          "num_only_base": 3,
+          "num_only_finetuned": 3
+        }
+      ]
+    }
+  ]
+}

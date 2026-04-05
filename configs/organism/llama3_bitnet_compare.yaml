@@ -1,0 +1,20 @@
+# @package organism
+name: llama3_bitnet_compare
+description: Compare Meta-Llama-3-8B-Instruct against a BitNet-derived checkpoint
+description_long: >
+  Comparison organism for diffing Meta-Llama-3-8B-Instruct against the
+  HF1BitLLM/Llama3-8B-1.58-100B-tokens checkpoint. This is intended for
+  model-to-model comparison where the BitNet model is architecture- and
+  tokenizer-compatible with the base Llama model.
+type: custom_compare
+
+dataset:
+  id: null
+  splits: []
+  is_chat: true
+  text_column: null
+
+finetuned_models:
+  llama3_8B_Instruct:
+    default:
+      model_id: HF1BitLLM/Llama3-8B-1.58-100B-tokens

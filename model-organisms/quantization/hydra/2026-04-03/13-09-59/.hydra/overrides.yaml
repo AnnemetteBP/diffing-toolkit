@@ -1,0 +1,15 @@
+- pipeline.mode=diffing
+- model=llama3_8B_Instruct
+- organism=llama3_bitnet_compare
+- diffing/method=logitdiff_quantization
+- diffing.results_base_dir=./model-organisms/quantization/diffing_results
+- pipeline.output_dir=./model-organisms/quantization/hydra/${now:%Y-%m-%d}/${now:%H-%M-%S}
+- wandb.enabled=false
+- infrastructure=runpod
+- diffing.method.n=1
+- 'diffing.method.prompts=["English: ''flower'' -> 中文:"]'
+- diffing.method.logitdiff_topk=5
+- diffing.method.max_new_tokens=8
+- infrastructure.device_map.base=cpu
+- infrastructure.device_map.finetuned=cpu
+- wandb.enabled=false

@@ -244,6 +244,47 @@ uv run python main.py \
 Direct Plotly static export requires `kaleido`, and with Kaleido v1 a local
 Chrome/Chromium install must also be available.
 
+## Quantization Comparison Runs
+
+There is now a separate quantization-specific setup for comparing:
+
+- base model: `meta-llama/Meta-Llama-3-8B-Instruct`
+- comparison model: `HF1BitLLM/Llama3-8B-1.58-100B-tokens`
+
+Relevant configs:
+
+- `configs/model/llama3_8B_Instruct.yaml`
+- `configs/organism/llama3_bitnet_compare.yaml`
+- `configs/diffing/method/logitdiff_quantization.yaml`
+
+To keep these runs isolated from the main `model-organisms` outputs, use:
+
+```bash
+./run_quantization_logitdiff.sh
+```
+
+This writes to:
+
+```text
+model-organisms/quantization/diffing_results/
+model-organisms/quantization/hydra/
+```
+
+The default quantization prompt set is:
+
+- `English: 'flower' -> 中文:`
+- `Translate exactly and keep quotes: English: 'moon' -> Español:`
+- `Act as a pirate: I lost my treasure.`
+- `Act as a pirate. Reply with exactly one sentence starting with "Arr!": The ship is sinking.`
+- `Daniel went to the garden. Mary went to the kitchen. Mary went back to the garden. Where is Mary?:`
+- `Repeat exactly: 'hello'`
+
+You can still override any method parameter from the CLI, for example:
+
+```bash
+./run_quantization_logitdiff.sh diffing.method.logitdiff_topk=5 diffing.method.max_new_tokens=8
+```
+
 ## Key Dependencies
 
 - `nnsight`: Model intervention/activation extraction

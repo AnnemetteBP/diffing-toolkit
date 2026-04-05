@@ -1,0 +1,42 @@
+# @package diffing.method
+name: logitdiff
+requires_preprocessing: false
+
+# Layers to extract logits from (relative positions in [0, 1])
+layers:
+  - 0.1
+  - 0.2
+  - 0.3
+  - 0.4
+  - 0.5
+  - 0.6
+  - 0.7
+  - 0.8
+  - 0.9
+  - 1.0
+
+# Number of top logit-lens tokens to compare per position (not sampling top_k)
+logitdiff_topk: 10
+
+# Inference batch size
+batch_size: 1
+
+# Maximum number of prompts to process (null = all)
+n: null
+
+# Generate this many tokens (greedy, from model A) before comparing.
+max_new_tokens: 16
+
+# Prompt set for quantization comparisons
+prompts:
+  - "English: 'flower' -> 中文:"
+  - "Translate exactly and keep quotes: English: 'moon' -> Español:"
+  - "Act as a pirate: I lost my treasure."
+  - "Act as a pirate. Reply with exactly one sentence starting with \"Arr!\": The ship is sinking."
+  - "Daniel went to the garden. Mary went to the kitchen. Mary went back to the garden. Where is Mary?:"
+  - "Repeat exactly: 'hello'"
+
+# Agent evaluation configuration
+agent:
+  overview:
+    top_n_divergent: 10
